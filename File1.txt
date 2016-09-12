@@ -1,3 +1,0 @@
-This is git bash second file
-
-Change 1 
